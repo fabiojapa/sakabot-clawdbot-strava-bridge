@@ -11,7 +11,7 @@ When you complete an activity on Strava, this service:
 
 **Local-first, no database required, runs on your Mac.**
 
----
+----
 
 ## Features
 
